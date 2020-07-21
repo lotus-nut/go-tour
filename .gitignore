@@ -17,3 +17,6 @@
 # Yarn
 node_modules/
 yarn.lock
+
+# Go Program
+blog-service/storage
