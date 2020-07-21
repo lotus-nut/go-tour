@@ -90,6 +90,10 @@ func setupLogger() error {
 	return nil
 }
 
+// @title blog service
+// @version 1.0.0
+// @description base service for blog
+// @termsOfService http://localhost:8000
 func main() {
 	global.Logger.Info("Init successfully")
 	gin.SetMode(global.ServerSetting.RunMode)
