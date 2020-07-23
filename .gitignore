@@ -19,4 +19,4 @@ node_modules/
 yarn.lock
 
 # Go Program
-blog-service/storage
+blog-service/storage/*/*
